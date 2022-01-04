@@ -1,0 +1,2 @@
+# LeugenDetecor
+android studio projecten
